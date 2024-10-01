@@ -1,9 +1,9 @@
 body{ 
-    background-color: rgb(80, 13, 13);
-    font-family:QuicKsand;
+    background-color: rgb(185, 136, 187);
+    font-family:AfacadFlux;
    }
    footer{
-       background-color: black;
+       background-color: rgb(255, 255, 255);
        color:white
        bottom: 0;
        position: fixed;
