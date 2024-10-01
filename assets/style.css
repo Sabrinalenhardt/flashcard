@@ -1,5 +1,5 @@
 body{ 
-    background-color: rgb(185, 136, 187);
+    background-color: rgb(235, 220, 241);
     font-family:AfacadFlux;
    }
  footer{
@@ -31,7 +31,7 @@ body{
     display:flex;
     }
     .cartao__conteudo h3 {
-    background-color: rgb(188, 158, 197);
+    background-color: rgb(230, 213, 235);
     text-align: left;
     padding: 0.5rem;
     position: absolute;
